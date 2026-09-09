@@ -117,3 +117,8 @@ BuilderCodes implements a permission-gated transfer system to control how codes 
 
 This design enables intentional rollout of specific transfer patterns, such as controlled marketplaces or recovery mechanisms.
 
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans [docs/fr](docs/fr/README.md) : presentation, mapping deterministe code-tokenid, enregistrement direct et par signature EIP-712, roles et stockage upgradeable, limites et perimetre.
